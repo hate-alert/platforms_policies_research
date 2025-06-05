@@ -1,4 +1,4 @@
-# HATEPRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation
+# HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation
 
 Accepted at **ACL (Findings) 2025**
 
