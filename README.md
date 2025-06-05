@@ -10,7 +10,7 @@ Despite regulations imposed by nations and social media platforms, e.g. (Governm
 
 ------------------------------------------
 ## File/Folder Description :open_file_folder:
-_Survey.xls_ file contains the detailed list of questionnaire spanning country regulations, platform policies and research datasets curated with the collaborative effort of NLP researchers and legal expert.
+_Survey.xlsx_ file contains the detailed list of questionnaire spanning country regulations, platform policies and research datasets curated with the collaborative effort of NLP researchers and legal expert.
 
 ------------------------------------------
 ## Please cite our paper
