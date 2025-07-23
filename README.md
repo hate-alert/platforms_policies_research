@@ -15,7 +15,17 @@ _Survey.xlsx_ file contains the detailed list of questionnaire spanning country 
 
 ------------------------------------------
 ## Please cite our paper
--- Coming soon
+~~~bibtex
+@misc{rizwan2025hateprismpoliciesplatformsresearch,
+      title={HatePRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation}, 
+      author={Naquee Rizwan and Seid Muhie Yimam and Daryna Dementieva and Florian Skupin and Tim Fischer and Daniil Moskovskiy and Aarushi Ajay Borkar and Robert Geislinger and Punyajoy Saha and Sarthak Roy and Martin Semmann and Alexander Panchenko and Chris Biemann and Animesh Mukherjee},
+      year={2025},
+      eprint={2507.04350},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2507.04350}, 
+}
+~~~
 
 ------------------------------------------
 ## Correspondance
