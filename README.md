@@ -8,7 +8,7 @@ Naquee Rizwan, Seid Muhie Yimam, Daryna Dementieva, Florian Skupin, Tim Fischer,
 ------------------------------------------
 
 <div align="center">
-  <img src="HatePRISM_Poster.jpg" width="90%">
+  <img src="HatePRISM_Poster.jpg" width="100%">
 </div>
 
 ------------------------------------------
