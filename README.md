@@ -3,6 +3,7 @@
 Accepted at **ACL (Findings) 2025**
 
 Naquee Rizwan, Seid Muhie Yimam, Daryna Dementieva, Florian Skupin, Tim Fischer, Daniil Moskovskiy, Aarushi Ajay Borkar, Robert Geislinger, Punyajoy Saha, Sarthak Roy, Martin Semmann, Alexander Panchenko, Chris Biemann, and Animesh Mukherjee:
+[[Paper]](https://aclanthology.org/2025.findings-acl.824/)
 [[Arxiv]](https://arxiv.org/abs/2507.04350)
 
 ------------------------------------------
